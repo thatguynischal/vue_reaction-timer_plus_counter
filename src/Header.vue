@@ -1,5 +1,5 @@
 <template>
-  <h1>How fast are you boi?</h1>
+  <h1>How fast are your fingers?</h1>
   <button @click="start" :disabled="isPlaying">Lets Play</button>
 </template>
 
